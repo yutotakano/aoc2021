@@ -3,8 +3,6 @@ open AOC
 
 let result (a, b) = a * b
 
-let (|-) x f = f x; x
-
 type instruction1 = Move of int * int
 
 let parse_instructions1 input =
