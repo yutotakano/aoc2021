@@ -11,3 +11,5 @@ _build
 # Haskell output
 *.hi
 *.o
+
+out/
