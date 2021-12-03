@@ -1,0 +1,13 @@
+# Varoius inputs
+
+*.input.txt
+
+# OCaml output
+_build
+*.native
+*.cmi
+*.cmx
+
+# Haskell output
+*.hi
+*.o
